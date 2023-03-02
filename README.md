@@ -29,7 +29,8 @@ Hello to whoever is going through this right now,my name is Inioluwa,i jumped on
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+
+- Solution URL: https://github.com/Mercyinioluwa/Front-end-Mentor
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
