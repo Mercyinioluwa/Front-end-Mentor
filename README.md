@@ -31,7 +31,7 @@ Hello to whoever is going through this right now,my name is Inioluwa,i jumped on
 
 
 - Solution URL: https://github.com/Mercyinioluwa/Front-end-Mentor
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:https://mercyinioluwa.github.io/Front-end-Mentor/
 
 ## My process
 
